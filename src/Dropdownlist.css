@@ -1,0 +1,48 @@
+.main-div{
+    position: absolute;
+    left: 150px;
+    top: 50px;
+    width: 80%;
+    height: 50%;
+    background-color: white;
+    border-radius: 25px;  
+    border: groove;
+    
+}
+
+.main-div h1{
+    position: relative;
+    left: 50px;
+
+}
+
+.main-div h3{
+    position: relative;
+    left: 55px;
+
+}
+.main-div button{
+
+    position: absolute;
+    top: 30px;
+    right: 55px;
+
+}
+
+.center-div{
+  position: relative;
+  left: 55px;
+  width: 90%;
+  border-radius: 15px;
+  border: groove;
+  
+
+}
+
+
+.main-button button {
+   position: absolute;
+  right: 155px;
+ bottom: 200px;
+ font-size: 20px;
+}
